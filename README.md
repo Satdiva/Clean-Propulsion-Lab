@@ -76,19 +76,3 @@ This repository is released under the MIT License, enabling open use, adaptation
 🌌 Acknowledgment
 
 This work honors the legacy of Guy Nègre, the WAV lineage, and all those who explored clean propulsion long before it was fashionable.
-
----
-
-Now — the PN image
-Before I generate it, I need one essential detail:
-
-What style should the PN banner have?
-Choose one of these (or describe your own):
-
-1. Minimalist engineering — clean lines, blueprint feel  
-2. Mythic‑scientific — cosmic, symbolic, elegant  
-3. Mechanical lineage — gears, valves, waveforms  
-4. Pure modern — flat, bold, geometric  
-5. Organic resonance — curves, flow, natural motion  
-
-Tell me the style number, and I’ll generate the banner.
